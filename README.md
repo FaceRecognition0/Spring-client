@@ -5,4 +5,4 @@
 - Controller에서 View로부터 받은 사진을 S3에 저장하고 Flask 서버에 전송하여 리턴값을 받는다.
   
 - 리턴값을 다시 thymeleaf를 활용하여 View Layer로 보낸다.
-![image](https://github.com/FaceRecognition0/Spring-client/assets/95980876/49162ddb-60a6-445b-8ade-cd3f0550d502)
+<img src = "https://github.com/FaceRecognition0/Spring-client/assets/95980876/4c0e8873-1461-465f-a13d-5bb9b4f3058e" width="80%" height="80%">
